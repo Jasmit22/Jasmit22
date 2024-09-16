@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Jasmit22/count.svg?"  />
 </div>
@@ -84,5 +82,3 @@
 ###
 
 ###
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
