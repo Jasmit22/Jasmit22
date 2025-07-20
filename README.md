@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Jasmit22/count.svg?"  />
+  
+  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Jasmit22)
 </div>
 
 ###
